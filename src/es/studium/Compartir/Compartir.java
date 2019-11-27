@@ -1,7 +1,10 @@
 package es.studium.Compartir;
 
+import java.util.Scanner;
+
 public class Compartir
 {
+		Scanner teclado = new Scanner (System.in);
 	int variable;
 	
 	Compartir()
